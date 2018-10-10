@@ -2,6 +2,8 @@
 public class Locadora {
 	public static void main(String[] args) {
 		
+		//Ligando e desligando um carro
+		
 		Carro c1 = new Carro();
 		
 		c1.setId(123);
@@ -33,7 +35,8 @@ public class Locadora {
 		c1.ligar();
 		//motor1.ligarMotor();
 		//motorTB1.ligarTurbo();			
-				
+		
+		System.out.println("Finalizando...");
 		
 				
 	}
