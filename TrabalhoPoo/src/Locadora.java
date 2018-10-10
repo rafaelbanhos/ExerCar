@@ -36,6 +36,8 @@ public class Locadora {
 		//motor1.ligarMotor();
 		//motorTB1.ligarTurbo();			
 		
+		System.out.println();
+		
 		System.out.println("Finalizando...");
 		
 				
